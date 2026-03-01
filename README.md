@@ -2,7 +2,7 @@
 
 A deployed AI-based web application that analyzes a resume against a target role and generates structured career guidance including skill gap analysis, a 4-week roadmap, and interview preparation suggestions.
 
-Live App: https://your-streamlit-link.streamlit.app  
+Live App: https://ai-career-strategy-engine-kxgvhjtmixv6wwxrihwvmj.streamlit.app  
 Repository: https://github.com/farajt/ai-career-strategy-engine
 
 ---
